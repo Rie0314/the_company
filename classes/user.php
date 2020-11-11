@@ -1,7 +1,7 @@
 <?php
 //require - if file is not found, error
 //include_once - do not insert anymore if previously included
-//require_once - do not insert anymore if previously required
+
 
 require_once "database.php";
 
