@@ -1,6 +1,4 @@
 <?php
-
-//include - if file is not found, ignore
 //require - if file is not found, error
 //include_once - do not insert anymore if previously included
 //require_once - do not insert anymore if previously required
